@@ -1,7 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using reactAPI.Models;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Cors;
 
 namespace reactAPI.Controllers
 {

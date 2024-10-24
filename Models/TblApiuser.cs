@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace reactAPI.Models
+﻿namespace reactAPI.Models
 {
     public partial class TblApiuser
     {
