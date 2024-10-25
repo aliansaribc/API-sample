@@ -7,7 +7,6 @@ namespace reactAPI.Controllers
     [ApiController]
     public class userController : ControllerBase
     {
-
         [HttpGet]
         public JsonResult Get()
         {
